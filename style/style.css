@@ -53,7 +53,8 @@ section h2 {
     text-align: center;
     padding: 20px 0;
     color: #148F77;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
     float: none;
 }
 .about p {
@@ -63,7 +64,10 @@ section h2 {
 }
 .gallery {
     background-color: #fff;
-}
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    color: #148F77;
 .contact {
     background-color: #fff;
 }
@@ -71,6 +75,7 @@ section h2 {
     color: #666;
     word-spacing: 2px;
     line-height: 20px;
+    width: 20px;
 }
 }
 .box {
